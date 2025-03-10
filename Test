@@ -1,0 +1,2 @@
+int quantite1 = 5, quantite2 = 0;
+System.out.printf("vous allez acheter %d stylo(s) et %d cahier(s)\n",quantite1, quantite2);)
